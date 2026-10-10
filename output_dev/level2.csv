@@ -1,0 +1,16 @@
+bill_id,question_id,question,answer
+IESCO_0004,Q1,How much of my bill is taxes?,Taxes on this bill are PKR 498. That is 15.24% of the Current Bill.
+IESCO_0004,Q2,How many months in my history went above 200 units?,There were 0 months in your history with consumption above 200 units. The highest month was 197 units (2026-06).
+IESCO_0004,Q3,How much will I pay if I miss the due date?,"If you miss the due date the payable after due date is PKR 3,812. The bill also shows PKR 3,674 if paid by 12-OCT-26, and the extra cost if paid after the due date is PKR 277."
+KESC_0004,Q1,How much of my bill is taxes?,"Taxes and Duties on this bill are Rs. 7,472.24, which is 16.4% of the current bill (Rs. 45,570.25)."
+KESC_0004,Q2,How many months in my history went above 200 units?,There were 8 months above 200 units in the 13-month history.
+KESC_0004,Q3,How much will I pay if I miss the due date?,If you miss the due date you will pay Rs. 0 — Payable after Due Date on this bill is Rs. 0 and there is no extra cost for late payment.
+KESC_0008,Q1,How much of my bill is taxes?,Taxes and Duties on this bill are Rs. 569.62. That is 16.61% of your current bill.
+KESC_0008,Q2,How many months in my history went above 200 units?,There were 2 months with consumption above 200 units: Jul (239 units) and Aug (203 units). Only positive months were counted (no negative months on this bill).
+KESC_0008,Q3,How much will I pay if I miss the due date?,"Amount Payable after Due Date is Rs. 3,716. This is an extra cost of Rs. 286 compared with the amount payable within the due date."
+LESCO_0005,Q1,How much of my bill is taxes?,"Taxes and Duties on this bill are PKR 3,358.23, which is 16.2% of the current bill (PKR 20,726)."
+LESCO_0005,Q2,How many months in my history went above 200 units?,Negative months were not counted. 3 months exceeded 200 units.
+LESCO_0005,Q3,How much will I pay if I miss the due date?,"This bill does not show a payable amount after the due date. 'Payable Within Due Date' is -54770 (credit), so no amount is listed to be paid after the due date."
+LESCO_0006,Q1,How much of my bill is taxes?,"Taxes on this bill are PKR 1,723.51. That is 31.33% of the Current Bill (PKR 5,501)."
+LESCO_0006,Q2,How many months in my history went above 200 units?,There were 9 months with consumption above 200 units. I counted only positive months; negative months (if any) were not counted.
+LESCO_0006,Q3,How much will I pay if I miss the due date?,"If you miss the due date you will pay PKR 45,263. That is PKR 351 more than the Payable by due date amount (PKR 44,912)."
