@@ -84,7 +84,3 @@ The CSV format follows the challenge: `level1.csv` has `bill_id, json` and `leve
 - Bills with several meter rows (net metering, peak and off-peak) have no single clear reading, so the readings are set to null unless one row matches the billed units.
 - The model gives slightly different results between runs. The two-read and adjudication step reduces this but does not remove it.
 - Only tested on a handful of sample bills, so new layouts may need prompt changes.
-
-## Data
-
-The bill images from the challenge are not included in this repository.
